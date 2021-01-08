@@ -55,13 +55,6 @@ pnorm(q = 20, mean = 20.3, sd = 0.1998743, lower.tail = TRUE)
 
 
 
-
-
-
-
-
-
-(3a)
 sd(Frosted$Weight)/50
 
 standard <- data.frame(standard = 0.003997487)
