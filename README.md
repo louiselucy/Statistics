@@ -1,3 +1,3 @@
-# Chocolate Frosted Sugar Bombs
+# normal distribution
 
 <img src="normal_distribution.png" />
